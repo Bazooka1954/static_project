@@ -1026,7 +1026,7 @@ body {
 .playStation_plus_area{
     height: 35rem;
     width: 100%;
-    background-image: url("../img_stock/playstation_plus/playstation_plus_background.webp");
+    background-image: url("./img_stock/playstation_plus/playstation_plus_background.webp");
     background-size: cover;
     background-position: center;
     display: flex;
